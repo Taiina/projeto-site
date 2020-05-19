@@ -18,6 +18,7 @@ main {
 h1 {
     font-size: 2cm;
     color: rgba(0, 0, 0, 0.473);
+    text-align: center;
 }
 
 h2 {
